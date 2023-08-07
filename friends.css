@@ -1,0 +1,67 @@
+main {
+    width: 100%;
+}
+
+nav {
+    padding: 1px;
+    background-color: black;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul li {
+    padding: 10px 40px 10px 10px;
+    /* T L B R */
+    list-style: none;
+    display: inline-block;
+}
+
+nav ul li a {
+    font-size: x-large;
+    text-decoration: none;
+    padding: 9px;
+    background-color: firebrick;
+    color: #efefef;
+    display: block;
+}
+
+h1 {
+    color: darkgrey;
+    text-align: center;
+    font-size: 75px;
+    background-color: chocolate;
+}
+
+#text {
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 70px;
+    text-align: justify;
+    word-spacing: 10px;
+    color: bisque;
+}
+
+.Aditya {
+    text-align: end;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.007);
+    display: inline-block;
+}
+
+.Aditya ul {
+    display: inline-block;
+}
+
+.Aditya ul li a {
+    font-size: x-large;
+    text-decoration: none;
+    padding: 9px;
+    background-color: firebrick;
+    color: azure;
+    display: block;
+    padding-right: 10px;
+    padding-left: 10px;
+}
